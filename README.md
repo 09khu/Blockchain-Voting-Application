@@ -1,4 +1,4 @@
-# Decentralized Voting (dVoting)
+# Blockachain Decentralized Voting Application(dVoting)
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
