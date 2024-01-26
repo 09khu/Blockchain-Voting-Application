@@ -2,7 +2,7 @@
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
-[Documentation Link](https://drive.google.com/drive/u/0/my-drive)
+[Documentation Link](https://drive.google.com/drive/u/0/folders/1PK8TZZWCqv0m4pvtRNE3cojHwY-NVxSB)
 
 ## System Workflow
 
